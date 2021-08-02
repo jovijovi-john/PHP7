@@ -1,0 +1,9 @@
+NOME                |TAG                      | ESTADO
+---------------------------------------------------------------
+
+Tag padrão          | <?php código aqui ?>    | Habilitada
+Tag de impressão    | <?= código aqui ?>      | Habilitada
+Tag curta           | <? código aqui ?>       | Desabilitada
+*Asp tag            | <% código aqui %>       | Desabilitada
+
+---------------------------------------------------------------
