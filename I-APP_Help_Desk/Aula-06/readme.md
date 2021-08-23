@@ -1,0 +1,3 @@
+# Refactoring do projeto com require_once
+
+    ->  Usamos o require_once nesse caso, pois como estamos fazendo um processo de validação, é de suma importância que caso haja um erro, o programa seja parado na hora, para nao dar brechas na aplicação, ja q um require ou include continuaria a execução do script normalmente. Outra coisa, é que so precisamos executa-lo apenas uma vez no nosso codigo, logo escolhemos o _once por isso.
